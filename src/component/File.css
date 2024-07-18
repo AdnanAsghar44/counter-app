@@ -1,0 +1,45 @@
+h1{
+    color: rgb(26, 25, 25);
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    font-size: 30px;
+    
+}
+
+h2{
+    font-size: 6rem;
+    color: white;
+  
+}
+
+
+button{
+    
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 12px 24px 15px;
+    border: 0;
+    color: #212122;
+    background: #eeebe7;
+    line-height: 1.15;
+    font-size: 20px;
+    border-radius: 50px;
+    margin-left: 12px;
+    box-shadow: 5px 5px 20px;
+                    
+                
+  
+}
+body{
+    background-color: rgb(31, 31, 32) ;
+}
+
+
+
+
+                    
+                    
+                
